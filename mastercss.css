@@ -1,0 +1,39 @@
+h1 {
+  background: #ff6666;
+  font-size: 250%;
+  color:white;
+  font-family: monospace;
+  text-align:right;
+}
+h2 {
+  color:#000066
+  font-family:monospace;
+}
+header{
+  background:#f2f2f2;
+  color:black;
+  text-align:center;
+  font-family: cursive;
+  }
+
+nav{
+  font-variant: small-caps;
+}
+
+
+section{
+  background: #ffff80;
+  font-family:cursive;
+}
+
+h2{
+  font-family: monospace;
+  font-size: 200%;
+}
+
+footer{
+  background: #ff6666;
+  color:white;
+  font-family:cursive;
+  text-align:right;
+}
